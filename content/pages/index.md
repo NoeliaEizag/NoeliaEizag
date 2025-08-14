@@ -12,13 +12,13 @@ sections:
 - elementId: 1
 colors: colors-f
 backgroundSize: full
-title: >-
-Soy Noelia Eizag: creadora, artista digital y estratega. Transformo ideas
-en experiencias visuales y emocionales únicas.
-subtitle: >-
+title: >
+Soy Noelia Eizag: creadora, artista digital y estratega.
+Transformo ideas en experiencias visuales y emocionales únicas.
+subtitle: >
 Bienvenida a mi universo creativo, donde arte, diseño y estrategia se
-encuentran para construir proyectos con alma y resultados reales. Explora,
-inspírate y dejemos juntos algo que deje huella.
+encuentran para construir proyectos con alma y resultados reales.
+Explora, inspírate y dejemos juntos algo que deje huella.
 styles:
 self:
 height: auto
