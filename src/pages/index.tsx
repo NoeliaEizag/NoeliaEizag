@@ -11,7 +11,7 @@ return (
 <main
 style={{
 minHeight: '100vh',
-backgroundImage: "url('/images/bg1.jpg')",
+backgroundImage: "url('/images/portada.png')",
 backgroundSize: 'cover',
 backgroundPosition: 'center',
 backgroundRepeat: 'no-repeat'
